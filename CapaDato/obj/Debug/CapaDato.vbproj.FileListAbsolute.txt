@@ -1,0 +1,60 @@
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\Genesis\Desktop\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\gbara\Documents\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Clase 6\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\gbara\Downloads\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\gbara\Documents\ProyectoFinal\ProyectoFinal\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\spmcr\Downloads\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\bin\Debug\CapaDato.xml
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.AssemblyReference.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.Resources.resources
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.GenerateResource.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.vbproj.CoreCompileInputs.cache
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.xml
+C:\Users\gbara\OneDrive\Uni\CUC 2022\Cuatrimestre III\TI-131 - Programación II\Proyectos de Programacion\ProyectoFinal\CapaDato\obj\Debug\CapaDato.pdb
